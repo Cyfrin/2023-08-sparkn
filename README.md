@@ -1,7 +1,5 @@
 # Sparkn
 
-[//]: # (contest-details-open)
-
 ## Contest Details 
 
 - Total Prize Pool: $15,000
@@ -16,6 +14,8 @@
 - nSLOC: ~194
 - Complexity Score: ~213
 - Dollars per Complexity: ~$70
+
+[//]: # (contest-details-open)
 
 # About the Project
 
